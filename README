@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------
+--------------------------------- README ---------------------------------
+--------------------------------------------------------------------------
+
+Per generare i file .dvi, .ps e .pdf eseguire il comando:
+
+    >make all
+    
+Per eliminare i file temporanei non necessari:
+
+    >make clean
+    
+Per eliminare i file temporanei e i file .dvi, .ps e .pdf:
+
+    >make erase
+
